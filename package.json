@@ -1,0 +1,27 @@
+{
+  "name": "eslint-plugin-vanilla-extract",
+  "version": "0.1.0",
+  "description": "Eslint plugin for vanilla extract lib",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "vova19tup@gmail.com",
+  "main": "./index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.1",
+    "jest": "^27.5.1"
+  },
+  "engines": {
+    "node": "12.x || 14.x || >= 16"
+  },
+  "peerDependencies": {
+    "eslint": ">=6"
+  },
+  "license": "ISC"
+}
