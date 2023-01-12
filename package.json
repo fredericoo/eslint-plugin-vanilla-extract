@@ -1,13 +1,13 @@
 {
-  "name": "eslint-plugin-vanilla-extract",
-  "version": "0.1.0",
-  "description": "Eslint plugin for vanilla extract lib",
+  "name": "@fredericoo/eslint-plugin-vanilla-extract",
+  "version": "0.1.1",
+  "description": "Syntax rules for vanilla-extract",
   "keywords": [
     "eslint",
     "eslintplugin",
     "eslint-plugin"
   ],
-  "author": "vova19tup@gmail.com",
+  "author": "fredericoo",
   "main": "./index.js",
   "scripts": {
     "lint": "eslint .",
